@@ -149,9 +149,9 @@ body::before {
     margin-bottom: 10px;
 }
 .profissao {
-    font-size: 18px !important;
-    color: #cccccc !important;
-    margin-bottom: 30px !important;
+    font-size: 18px;
+    color: #cccccc ;
+    margin-bottom: 30px ;
 }
 .card-conquista {
     display: flex;
@@ -170,6 +170,6 @@ body::before {
     margin-bottom: 5px;
 }
 .card-conquista p {
-    font-size: 15px !important;
-    margin: 0 !important;
+    font-size: 15px;
+    margin: 0;
 }
